@@ -1,0 +1,11 @@
+Dzień dobry
+
+W projekcie zostały zastosowane 4 Design Patterns
+
+1. Niejawnie zastosowano Singleton (niejako Spring Boot załatwił sprawę, podczas całego cyklu życia aplikacji istnieje tylko 1 instancja klasy Controller np.)
+
+2. Prototype - Tworzymy klony łazików
+
+3. Adapter - Konwertujemy Dzień na marsie (Sol) na dzień na ziemii
+
+4. Iterator - filtrujemy po nazwach  łazików, możemy sprawdzić czy istnieje następny rekord i się do niego odwołać
